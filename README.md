@@ -1,1 +1,1 @@
-# FaceMon
+Go to release page to download: https://github.com/viscomsolution/FaceMon/releases
